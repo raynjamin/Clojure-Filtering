@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/purchases_parser/.idea/Clojure-Filtering.iml" filepath="$PROJECT_DIR$/purchases_parser/.idea/Clojure-Filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/purchases_parser/purchases_parser.iml" filepath="$PROJECT_DIR$/purchases_parser/purchases_parser.iml" />
+    </modules>
+  </component>
+</project>
